@@ -1,1 +1,37 @@
 
+Hi this is Kalpana, I have created two basic projects  weather app, Kolam(Indian geometrical creative drawing) Using ViSual Code tool.
+
+
+1.Weather App:
+
+ I have Created a landing page from scratch about something  really very intresting. The page includes a user interaction.
+HTML requirements 
+I have used these following HTML elements tags.
+h1, h2, p, div,  strong, box shadow, br, hr, a, img, button.
+
+CSS requirements 
+I have used the following CSS properties.
+margin, padding, font-size, font-weight, color, background , line-height, box-shadow, border, transition, button hover.
+JavaScript requirements 
+ I have used  the following JS functionalities.
+let, if, else, alert, prompt, event.
+
+
+2.Kolam project: 
+
+
+Kolam is a beautiful art which practiced by every household in India. It is either a creative free flow art, a geometrical representation or a patterns connecting many dots.
+
+ I have Created a landing page from scratch about something I'm passionate about. The page includes a user interaction.
+HTML requirements 
+I have used these following HTML elements tags.
+h1, h2, p, div,  strong, box shadow, br, hr, a, img, button ,hyperlink.
+
+CSS requirements 
+I have used the following CSS properties.
+margin, padding, font-size, font-weight, color, background , line-height, box-shadow, border, transition
+JavaScript requirements 
+ I have used  the following JS functionalities.
+let, if, else, alert, prompt, event.
+
+
